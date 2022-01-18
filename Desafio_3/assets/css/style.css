@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+
+    .spain{
+        background-color: red;
+        width: 350px;
+        height: 230px;
+        margin: 30px;
+        position: absolute;
+       
+    }
+    .color-yellow{
+        background-color: yellow;
+        position: relative;
+        top: 92px;
+        width: 350px;
+        height: 100px;
+        margin: 30px;
+    }

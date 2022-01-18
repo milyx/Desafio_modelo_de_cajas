@@ -1,0 +1,30 @@
+body *{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/*Desafio-1*/
+.main {
+  margin: 5px;
+}
+.box {
+  border: 2px solid #808080;
+  height: 100px;
+  height: auto;
+  width: calc(25% - 7px - 10px);
+  padding: 5px;
+  display: inline-block;
+}
+.box__img {
+  width: 270px;
+  display: block;
+  margin: auto;
+}
+.navbar{
+  width: 100%;
+  background-color: green;
+  position: fixed;
+  display: inline-block;
+}
+
+
