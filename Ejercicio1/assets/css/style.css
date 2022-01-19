@@ -1,0 +1,25 @@
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.box-b {
+  box-sizing: border-box;
+  border: 2px solid #808080;
+  width: calc(25% - 4px);
+  height: 100%;
+  padding: 5px;
+  display: inline-block;
+}
+.box-b__img {
+  width: 300px;
+  padding: 25px;
+}
+
+.navbar {
+  background-color: #3a6404;
+  position: fixed;
+}
+
+/*# sourceMappingURL=style.css.map */

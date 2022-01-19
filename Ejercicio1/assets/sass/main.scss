@@ -1,0 +1,30 @@
+@import "import/variables";
+@import "import/mixins";
+@import "import/reset";
+
+
+.box-b{
+    box-sizing: border-box;
+    border: 2px solid #808080;
+    width: calc(25% - 4px);
+    height: 100%;
+    padding: 5px;
+    display: inline-block;
+    @include movil-view {
+
+    }
+    
+    
+    &__img{
+        width: 300px;
+        padding: 25px;
+       
+   
+    }
+
+}
+.navbar{
+    background-color: $color-green-dark;
+    position: fixed;
+    
+}
