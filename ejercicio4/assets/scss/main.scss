@@ -8,5 +8,13 @@
 
 //Components
 
-//Layout
-@import "layout/layout";
+
+
+.main {
+    background-color: #B0CCAB;
+    padding: 50px;
+    }
+    .main__paragraph {
+    position: relative;
+    left: 50px;
+    }
