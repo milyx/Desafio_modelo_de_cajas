@@ -2,11 +2,22 @@
 @import "abstract/mixins";
 @import "abstract/variables";
 
-
 //Base
 @import "base/reset";
 
-//Components
 
-//Layout
-@import "layout/layout";
+.box{
+    display: inline-block;
+    margin: 50px;
+}
+.img-lente{
+    position: relative;
+    
+}
+.img-ribbon{
+    margin: 50px;
+    position: absolute;
+    top: 5px;
+    left: -10px;
+    
+}

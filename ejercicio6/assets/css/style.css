@@ -1,0 +1,13 @@
+.box {
+  display: block;
+  margin-left: auto;
+  text-align: center;
+}
+
+.ribbon {
+  position: relative;
+  left: 128px;
+  top: -120px;
+}
+
+/*# sourceMappingURL=style.css.map */

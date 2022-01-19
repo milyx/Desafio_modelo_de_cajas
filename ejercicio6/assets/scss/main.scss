@@ -1,12 +1,14 @@
-//Abstract
-@import "abstract/mixins";
-@import "abstract/variables";
+.box{
+    display: block; 
+    margin-left:auto;
+    text-align: center;
+}
+.power{
+    
 
-
-//Base
-@import "base/reset";
-
-//Components
-
-//Layout
-@import "layout/layout";
+}
+.ribbon{
+    position: relative;
+    left: 128px;
+    top: -120px; 
+}
