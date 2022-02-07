@@ -1,0 +1,8 @@
+.content {
+    position: relative;
+    left: 1457px;
+
+  &__img {
+    position: fixed;
+  }
+}
